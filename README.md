@@ -41,7 +41,7 @@ Side Quests :
 # 🎯 About Me
 
 ```python
-class Adeeb():
+class Adeeb:
 
     def __init__(self):
         self.name = "Mohammed Ainan Adeeb"
@@ -103,26 +103,6 @@ class Adeeb():
 
 ---
 
-# 🐍 Snake Eating My Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/adeebadel/adeebadel/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adeebadel&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
----
-
 # 🎲 Developer Skills
 
 | Skill | Progress |
@@ -142,7 +122,7 @@ class Adeeb():
 
 ⬆️⬆️⬅️⬇️➡️
 
-*(The snake above actually eats your GitHub contributions!)*
+*(Imagine the snake eating your contributions!)*
 
 ---
 
